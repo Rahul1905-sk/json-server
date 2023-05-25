@@ -29618,5 +29618,71 @@
       "gender": "girls",
       "category": "t-shirt"
     }
+  ],
+  "users": [
+    {
+      "username": "karan",
+      "email": "karan@gmail.com",
+      "password": "qwe123",
+      "isDoctor": true,
+      "id": 1
+    }
+  ],
+  "appointments": [
+    {
+      "name": "karan",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "specialization": "Dermatologist",
+      "experience": 2300,
+      "date": "Thu May 25 2023 13:28:31 GMT+0530 (India Standard Time)",
+      "location": "gwl",
+      "slots": 0,
+      "fee": 2500,
+      "id": 1
+    },
+    {
+      "name": "Praveen",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "specialization": "Pediatrician",
+      "experience": 23,
+      "date": "Thu May 25 2023 14:57:18 GMT+0530 (India Standard Time)",
+      "location": "gwl",
+      "slots": 32,
+      "fee": 222,
+      "id": 2
+    },
+    {
+      "name": "dfsf",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "specialization": "Psychiatrist ",
+      "experience": 12,
+      "date": "Thu May 25 2023 14:57:39 GMT+0530 (India Standard Time)",
+      "location": "dsa",
+      "slots": 2,
+      "fee": 234,
+      "id": 3
+    },
+    {
+      "name": "dsfdsd",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "specialization": "Cardiologist",
+      "experience": 32,
+      "date": "Thu May 25 2023 14:58:19 GMT+0530 (India Standard Time)",
+      "location": "dsf",
+      "slots": 34,
+      "fee": 765,
+      "id": 4
+    },
+    {
+      "name": "sa",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "specialization": "Dermatologist",
+      "experience": 34,
+      "date": "Thu May 25 2023 14:58:38 GMT+0530 (India Standard Time)",
+      "location": "fd",
+      "slots": 44,
+      "fee": 22222,
+      "id": 5
+    }
   ]
 }
